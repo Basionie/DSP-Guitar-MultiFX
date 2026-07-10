@@ -43,5 +43,5 @@ Register the new effect in the EffectManager to enable UI control.
 📜 Dependencies
 U8g2 (Display driver)
 
-CriticalTaskScheduler <img width="666" height="375" alt="WhatsApp Image 2026-07-11 at 12 28 57 AM" src="https://github.com/user-attachments/assets/b8d79884-c170-4848-a2ae-37178c5d5cce" />
+CriticalTaskScheduler 
 (Task scheduling)
