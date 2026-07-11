@@ -11,16 +11,6 @@ Hardware Interface: Integrated support for SGTL5000 audio shield, rotary encoder
 
 Scalable Design: Easily add new effects by implementing the IEffect interface.
 
-📁 Project Structure
-Plaintext
-DSP-Guitar-MultiFX/
-├── firmware/
-│   ├── include/       # Header files (.h)
-│   ├── src/           # Implementation files (.cpp)
-│   └── platformio.ini # Build configuration
-├── Hardware/          # PCB designs and schematics
-├── Images/            # Project photos and UI diagrams
-└── README.md
 🚀 Getting Started
 Clone the repository: git clone [https://github.com/Basionie/DSP-Guitar-MultiFX.git](https://github.com/Basionie/DSP-Guitar-MultiFX.git)
 
